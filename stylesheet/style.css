@@ -1,0 +1,80 @@
+* {
+    font-family: "Tahoma";
+}
+
+.header {
+    border: 2px solid black;
+    height: 100px;
+}
+
+.quotation {
+    background-color: #25beff;
+    border: 2px solid black;
+    height: 80px;
+}
+
+.body {
+    height: 80%;
+}
+
+.footer {
+    border: 2px solid black;
+    background-color: #25beff;
+    height: 30px;
+    text-align: center;
+    font-size: 13px;
+
+}
+
+p {
+    font-size: 13px;
+}
+
+.title {
+    align-content: center;
+    color: #2442ff;
+    text-decoration: underline;
+}
+
+.item-column {
+    float: left;
+    width: 25%;
+    padding: 60px;
+}
+
+.clear-both {
+    clear: both;
+}
+
+img {
+    max-height: 100px;
+    float :left;
+}
+.logo{
+    float: left;
+    margin:25px;
+    font-size: 40px;
+
+}
+.white{
+    color: white;
+}
+.quotation .white{
+    text-align: center;
+    font-style: italic;
+    font-size: 100%;
+    margin: 10px;
+}
+.quotation .name{
+    float: right;
+    color: white;
+    margin-right: 20%;
+}
+.menu{
+    text-decoration: underline;
+    color: #25beff;
+    float: right;
+    padding: 40px;
+    font-size: 15px;
+}
+
